@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "nice"
+echo "nice to meet you"
