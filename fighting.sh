@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "nice uiseok"
+echo "nice to meet you"
